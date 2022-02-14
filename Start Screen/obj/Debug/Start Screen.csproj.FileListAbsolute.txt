@@ -1,0 +1,9 @@
+I:\C# Windows Form\Start Screen\Start Screen\obj\Debug\Start Screen.csprojAssemblyReference.cache
+I:\C# Windows Form\Start Screen\Start Screen\obj\Debug\Start_Screen.Properties.Resources.resources
+I:\C# Windows Form\Start Screen\Start Screen\obj\Debug\Start Screen.csproj.GenerateResource.cache
+I:\C# Windows Form\Start Screen\Start Screen\obj\Debug\Start Screen.csproj.CoreCompileInputs.cache
+I:\C# Windows Form\Start Screen\Start Screen\obj\Debug\Start_Screen.Start_Frm.resources
+I:\C# Windows Form\Start Screen\Start Screen\bin\Debug\Start Screen.exe
+I:\C# Windows Form\Start Screen\Start Screen\bin\Debug\Start Screen.pdb
+I:\C# Windows Form\Start Screen\Start Screen\obj\Debug\Start Screen.exe
+I:\C# Windows Form\Start Screen\Start Screen\obj\Debug\Start Screen.pdb
